@@ -5,3 +5,4 @@ Git is free software.
 合并分支的方式
 
 存储工作中...
+远程协作

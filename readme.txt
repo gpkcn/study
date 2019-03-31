@@ -6,3 +6,4 @@ Git is free software.
 
 存储工作中...
 远程协作
+git2 修改了一些内容
